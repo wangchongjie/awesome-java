@@ -5,64 +5,64 @@
 A curated list of awesome Java frameworks, libraries and software.
 
 - [Awesome Java](#awesome-java)
-    - [Ancients](#ancients) 【由来已久的】
-    - [Bean Mapping](#bean-mapping) 【Bean映射】
+    - [Ancients](#ancients) [由来已久的】
+    - [Bean Mapping](#bean-mapping) [Bean映射】
     - [Build](#build) [构建]
     - [Bytecode Manipulation](#bytecode-manipulation) [字节码操作]
-    - [Caching](#caching) 缓存
-    - [Cluster Management](#cluster-management) 集群管理
-    - [Code Analysis](#code-analysis) 代码分析
-    - [Code Coverage](#code-coverage) 代码覆盖
-    - [Command-line Argument Parsers](#command-line-argument-parsers) 命令行参数解析
-    - [Compiler-compiler](#compiler-compiler) 内嵌编译器
-    - [Configuration](#configuration) 配置相关
-    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver) 优化解决问题
-    - [Continuous Integration](#continuous-integration) 持续集成
-    - [CSV](#csv) CSV
-    - [Data structures](#data-structures) 数据结构
-    - [Database](#database) 数据库
-    - [Date and Time](#date-and-time) 日期和时间
-    - [Dependency Injection](#dependency-injection) 依赖注入
-    - [Development](#development) 开发
-    - [Distributed Applications](#distributed-applications) 分布式应用
-    - [Distributed Databases](#distributed-databases) 分布式数据库
-    - [Distribution](#distribution) 原生分布式
-    - [Document Processing](#document-processing) 文档处理
-    - [Formal Verification](#formal-verification) 格式校验
-    - [Functional Programming](#functional-programming) 函数式编程
-    - [Game Development](#game-development) 游戏开发
-    - [Geospatial](#geospatial) 地理空间
-    - [GUI](#gui) 图形用户界面
-    - [High Performance](#high-performance) 高性能计算
-    - [IDE](#ide) 开发工具
-    - [Imagery](#imagery) 图形处理
-    - [JSON Processing](#json-processing) JSON处理
-    - [JSON](#json) JSON
-    - [JVM and JDK](#jvm-and-jdk) JVM和JDK
-    - [Logging](#logging) 日志
-    - [Machine Learning](#machine-learning) 机器学习
-    - [Messaging](#messaging) 消息组件
-    - [Miscellaneous](#miscellaneous) 混杂的
-    - [Monitoring](#monitoring) 监控 
-    - [Native](#native) 系统库交互
-    - [Natural Language Processing](#natural-language-processing) 自然语言处理
-    - [Networking](#networking) 网络
-    - [ORM](#orm) 对象关系映射
-    - [PDF](#pdf) PDF
-    - [Performance analysis](#performance-analysis) 性能分析
-    - [Platform](#platform) 平台
-    - [Reactive libraries](#reactive-libraries) 响应式编程库
-    - [REST Frameworks](#rest-frameworks) REST框架
-    - [Science](#science) 科学计算
-    - [Search](#search) 搜索
-    - [Security](#security) 安全
-    - [Serialization](#serialization) 序列化
-    - [Server](#server) 服务器
-    - [Template Engine](#template-engine) 模板引擎
-    - [Testing](#testing) 测试
-    - [Utility](#utility) 工具类
-    - [Web Crawling](#web-crawling) 网络爬虫
-    - [Web Frameworks](#web-frameworks) 网络框架
+    - [Caching](#caching) [缓存]
+    - [Cluster Management](#cluster-management) [集群管理]
+    - [Code Analysis](#code-analysis) [代码分析]
+    - [Code Coverage](#code-coverage) [代码覆盖]
+    - [Command-line Argument Parsers](#command-line-argument-parsers) [命令行参数解析]
+    - [Compiler-compiler](#compiler-compiler) [内嵌编译器]
+    - [Configuration](#configuration) [配置相关]
+    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver) [优化解决问题]
+    - [Continuous Integration](#continuous-integration) [持续集成]
+    - [CSV](#csv) [CSV]
+    - [Data structures](#data-structures) [数据结构
+    - [Database](#database) [数据库]
+    - [Date and Time](#date-and-time) [日期和时间]
+    - [Dependency Injection](#dependency-injection) [依赖注入]
+    - [Development](#development) [开发]
+    - [Distributed Applications](#distributed-applications) [分布式应用]
+    - [Distributed Databases](#distributed-databases) [分布式数据库]
+    - [Distribution](#distribution) [原生分布式]
+    - [Document Processing](#document-processing) [文档处理]
+    - [Formal Verification](#formal-verification) [格式校验]
+    - [Functional Programming](#functional-programming) [函数式编程]
+    - [Game Development](#game-development) [游戏开发]
+    - [Geospatial](#geospatial) [地理空间]
+    - [GUI](#gui) [图形用户界面]
+    - [High Performance](#high-performance) [高性能计算]
+    - [IDE](#ide) [开发工具]
+    - [Imagery](#imagery) [图形处理]
+    - [JSON Processing](#json-processing) [JSON处理]
+    - [JSON](#json) [JSON]
+    - [JVM and JDK](#jvm-and-jdk) [JVM和JDK]
+    - [Logging](#logging) [日志]
+    - [Machine Learning](#machine-learning) [机器学习]
+    - [Messaging](#messaging) [消息组件]
+    - [Miscellaneous](#miscellaneous) [混杂的]
+    - [Monitoring](#monitoring) [监控 ]
+    - [Native](#native) [系统库交互]
+    - [Natural Language Processing](#natural-language-processing) [自然语言处理]
+    - [Networking](#networking) [网络]
+    - [ORM](#orm) [对象关系映射]
+    - [PDF](#pdf) [PDF]
+    - [Performance analysis](#performance-analysis) [性能分析]
+    - [Platform](#platform) [平台]
+    - [Reactive libraries](#reactive-libraries) [响应式编程库]
+    - [REST Frameworks](#rest-frameworks) [REST框架]
+    - [Science](#science) [科学计算]
+    - [Search](#search) [搜索]
+    - [Security](#security) [安全]
+    - [Serialization](#serialization) [序列化]
+    - [Server](#server) [服务器]
+    - [Template Engine](#template-engine) [模板引擎]
+    - [Testing](#testing) [测试]
+    - [Utility](#utility) [工具类]
+    - [Web Crawling](#web-crawling) [网络爬虫]
+    - [Web Frameworks](#web-frameworks) [网络框架]
 - [Resources](#resources)
     - [Communities](#communities)
     - [Frontends](#frontends)
