@@ -3,6 +3,7 @@
 # Java通用基础组件汇总列表
 
 A curated list of awesome Java frameworks, libraries and software.
+一些非常赞的Java框架、库和软件的列表。
 
 - [Awesome Java](#awesome-java)
     - [Ancients](#ancients)
