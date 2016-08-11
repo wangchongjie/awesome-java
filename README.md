@@ -6,34 +6,34 @@ A curated list of awesome Java frameworks, libraries and software.
 一些非常赞的Java框架、库和软件的列表。
 
 - [Awesome Java](#awesome-java)
-    - [Ancients 来自远古的](#ancients)
+    - [Ancients](#ancients) 由来已久的
     - [Bean Mapping](#bean-mapping) Bean映射
-    - [Build](#build)
-    - [Bytecode Manipulation](#bytecode-manipulation)
-    - [Caching](#caching)
-    - [Cluster Management](#cluster-management)
-    - [Code Analysis](#code-analysis)
-    - [Code Coverage](#code-coverage)
-    - [Command-line Argument Parsers](#command-line-argument-parsers)
-    - [Compiler-compiler](#compiler-compiler)
-    - [Configuration](#configuration)
-    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
-    - [Continuous Integration](#continuous-integration)
-    - [CSV](#csv)
-    - [Data structures](#data-structures)
-    - [Database](#database)
-    - [Date and Time](#date-and-time)
-    - [Dependency Injection](#dependency-injection)
-    - [Development](#development)
-    - [Distributed Applications](#distributed-applications)
-    - [Distributed Databases](#distributed-databases)
-    - [Distribution](#distribution)
-    - [Document Processing](#document-processing)
-    - [Formal Verification](#formal-verification)
-    - [Functional Programming](#functional-programming)
-    - [Game Development](#game-development)
-    - [Geospatial](#geospatial)
-    - [GUI](#gui)
+    - [Build](#build) 构建
+    - [Bytecode Manipulation](#bytecode-manipulation) 字节码操作
+    - [Caching](#caching) 缓存
+    - [Cluster Management](#cluster-management) 集群管理
+    - [Code Analysis](#code-analysis) 代码分析
+    - [Code Coverage](#code-coverage) 代码覆盖
+    - [Command-line Argument Parsers](#command-line-argument-parsers) 命令行参数解析
+    - [Compiler-compiler](#compiler-compiler) 内嵌编译器
+    - [Configuration](#configuration) 配置相关
+    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver) 优化解决问题
+    - [Continuous Integration](#continuous-integration) 持续集成
+    - [CSV](#csv) CSV
+    - [Data structures](#data-structures) 数据结构
+    - [Database](#database) 数据库
+    - [Date and Time](#date-and-time) 日期和时间
+    - [Dependency Injection](#dependency-injection) 依赖注入
+    - [Development](#development) 开发
+    - [Distributed Applications](#distributed-applications) 分布式应用
+    - [Distributed Databases](#distributed-databases) 分布式数据库
+    - [Distribution](#distribution) 原生分布式
+    - [Document Processing](#document-processing) 文档处理
+    - [Formal Verification](#formal-verification) 格式校验
+    - [Functional Programming](#functional-programming) 函数式编程
+    - [Game Development](#game-development) 游戏开发
+    - [Geospatial](#geospatial) 地理空间
+    - [GUI](#gui) 图形用户界面
     - [High Performance](#high-performance)
     - [IDE](#ide)
     - [Imagery](#imagery)
