@@ -5,8 +5,8 @@
 A curated list of awesome Java frameworks, libraries and software.
 
 - [Awesome Java](#awesome-java)
-    - [Ancients](#ancients) [由来已久的】
-    - [Bean Mapping](#bean-mapping) [Bean映射】
+    - [Ancients](#ancients) [由来已久的]
+    - [Bean Mapping](#bean-mapping) [Bean映射]
     - [Build](#build) [构建]
     - [Bytecode Manipulation](#bytecode-manipulation) [字节码操作]
     - [Caching](#caching) [缓存]
@@ -64,12 +64,12 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Web Crawling](#web-crawling) [网络爬虫]
     - [Web Frameworks](#web-frameworks) [网络框架]
 - [Resources](#resources)
-    - [Communities](#communities)
-    - [Frontends](#frontends)
-    - [Influential Books](#influential-books)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
+    - [Communities](#communities) [委员会]
+    - [Frontends](#frontends) [前端]
+    - [Influential Books](#influential-books) [有影响力的书]
+    - [Podcasts](#podcasts) [播客]
+    - [Twitter](#twitter) [Twitter]
+    - [Websites](#websites) [网站]
 - [Contributing](#contributing)
 
 ## Ancients
