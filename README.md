@@ -1,9 +1,8 @@
 
 # Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-# Java通用基础组件汇总列表
+# Java通用基础框架、组件、库、软件的汇总列表
 
 A curated list of awesome Java frameworks, libraries and software.
-一些非常赞的Java框架、库和软件的列表。
 
 - [Awesome Java](#awesome-java)
     - [Ancients](#ancients) 由来已久的
@@ -34,36 +33,36 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Game Development](#game-development) 游戏开发
     - [Geospatial](#geospatial) 地理空间
     - [GUI](#gui) 图形用户界面
-    - [High Performance](#high-performance)
-    - [IDE](#ide)
-    - [Imagery](#imagery)
-    - [JSON Processing](#json-processing)
-    - [JSON](#json)
-    - [JVM and JDK](#jvm-and-jdk)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Messaging](#messaging)
-    - [Miscellaneous](#miscellaneous)
-    - [Monitoring](#monitoring)
-    - [Native](#native)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Networking](#networking)
-    - [ORM](#orm)
-    - [PDF](#pdf)
-    - [Performance analysis](#performance-analysis)
-    - [Platform](#platform)
-    - [Reactive libraries](#reactive-libraries)
-    - [REST Frameworks](#rest-frameworks)
-    - [Science](#science)
-    - [Search](#search)
-    - [Security](#security)
-    - [Serialization](#serialization)
-    - [Server](#server)
-    - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Utility](#utility)
-    - [Web Crawling](#web-crawling)
-    - [Web Frameworks](#web-frameworks)
+    - [High Performance](#high-performance) 高性能计算
+    - [IDE](#ide) 开发工具
+    - [Imagery](#imagery) 图形处理
+    - [JSON Processing](#json-processing) JSON处理
+    - [JSON](#json) JSON
+    - [JVM and JDK](#jvm-and-jdk) JVM和JDK
+    - [Logging](#logging) 日志
+    - [Machine Learning](#machine-learning) 机器学习
+    - [Messaging](#messaging) 消息组件
+    - [Miscellaneous](#miscellaneous) 混杂的
+    - [Monitoring](#monitoring) 监控 
+    - [Native](#native) 系统库交互
+    - [Natural Language Processing](#natural-language-processing) 自然语言处理
+    - [Networking](#networking) 网络
+    - [ORM](#orm) 对象关系映射
+    - [PDF](#pdf) PDF
+    - [Performance analysis](#performance-analysis) 性能分析
+    - [Platform](#platform) 平台
+    - [Reactive libraries](#reactive-libraries) 响应式编程库
+    - [REST Frameworks](#rest-frameworks) REST框架
+    - [Science](#science) 科学计算
+    - [Search](#search) 搜索
+    - [Security](#security) 安全
+    - [Serialization](#serialization) 序列化
+    - [Server](#server) 服务器
+    - [Template Engine](#template-engine) 模板引擎
+    - [Testing](#testing) 测试
+    - [Utility](#utility) 工具类
+    - [Web Crawling](#web-crawling) 网络爬虫
+    - [Web Frameworks](#web-frameworks) 网络框架
 - [Resources](#resources)
     - [Communities](#communities)
     - [Frontends](#frontends)
