@@ -6,8 +6,8 @@ A curated list of awesome Java frameworks, libraries and software.
 一些非常赞的Java框架、库和软件的列表。
 
 - [Awesome Java](#awesome-java)
-    - [Ancients](#ancients)
-    - [Bean Mapping](#bean-mapping)
+    - [Ancients 来自远古的](#ancients)
+    - [Bean Mapping](#bean-mapping) Bean映射
     - [Build](#build)
     - [Bytecode Manipulation](#bytecode-manipulation)
     - [Caching](#caching)
