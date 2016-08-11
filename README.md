@@ -822,3 +822,5 @@ A curated list of awesome Java frameworks, libraries and software.
 Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) for guidelines.
+
+SYNC FROM https://github.com/akullpp/awesome-java
