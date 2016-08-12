@@ -74,6 +74,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Ancients
 [由来已久的]
+
 *In existence since the beginning of time and which will continue being used long after the hype has waned.*
 
 * [Apache Ant](http://ant.apache.org/) - Build process management with XML.
@@ -95,7 +96,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [TestNG](http://testng.org/) - Testing framework.
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
 
-## Bean Mapping [Bean映射]
+## Bean Mapping 
+[Bean映射]
 
 *Frameworks that ease bean mapping.*
 
@@ -106,7 +108,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Orika](https://github.com/orika-mapper/orika) - Orika is a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another.
 * [Selma](https://github.com/xebia-france/selma) - Stupid Simple Statically Linked Mapper. Selma is an Annotation Processor Based bean mapper.
 
-## Build [构建]
+## Build 
+[构建]
 
 *Tools which handle the build cycle and dependencies of an application.*
 
