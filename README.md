@@ -5,7 +5,7 @@
 A curated list of awesome Java frameworks, libraries and software.
 
 - [Awesome Java](#awesome-java)
-    - [Ancients [由来已久的]](#ancients) [由来已久的]
+    - [Ancients 由来已久的](#ancients) [由来已久的]
     - [Bean Mapping](#bean-mapping) [Bean映射]
     - [Build](#build) [构建]
     - [Bytecode Manipulation](#bytecode-manipulation) [字节码操作]
@@ -72,7 +72,7 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Websites](#websites) [网站]
 - [Contributing](#contributing)
 
-## Ancients [由来已久的]
+## Ancients 由来已久的
 
 *In existence since the beginning of time and which will continue being used long after the hype has waned.*
 
