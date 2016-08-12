@@ -72,7 +72,7 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Websites](#websites) [网站]
 - [Contributing](#contributing)
 
-## Ancients
+## Ancients [由来已久的]
 
 *In existence since the beginning of time and which will continue being used long after the hype has waned.*
 
